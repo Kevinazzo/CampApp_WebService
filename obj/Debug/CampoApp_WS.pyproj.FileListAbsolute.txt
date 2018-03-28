@@ -1,0 +1,3 @@
+C:\Users\RomanSky\Documents\Visual Studio 2017\Projects\CampoApp\CampoApp_WS\obj\Debug\CampoApp_WS.pyproj.CoreCompileInputs.cache
+C:\Users\RomanSky\Documents\Visual Studio 2017\Projects\CampoApp\CampoApp_WS\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\RomanSky\Documents\Visual Studio 2017\Projects\CampoApp\CampoApp_WS\bin\wfastcgi.py
